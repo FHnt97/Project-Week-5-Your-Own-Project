@@ -37,7 +37,7 @@ As an added bonus, and for the sake of entertainment, a comparison of the result
 ## Dataset
 Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
 
-The main hypothesis created base on the data retrieved from a questionnaire for the self-evaluation of an individual’s self-esteem, developed by Rosenberg in the 60s. The dataset used collected 47,974 answers in total and includes not only the overall score for each participant, but the age and nationality of each. 
+The main hypothesis created bases on the data retrieved from a questionnaire for the self-evaluation of an individual’s self-esteem, developed by Rosenberg in the 60s. The dataset used collected 47,974 answers in total and includes not only the overall score for each participant, but the age and nationality of each. 
 
 As a secondary dataset, Hofstede’s cultural compass report was used. This report analyses 6 dimensions of national culture of different countries; power distance, individualism, masculinity, uncertainty avoidance, long-term orientation and indulgence. 
 
