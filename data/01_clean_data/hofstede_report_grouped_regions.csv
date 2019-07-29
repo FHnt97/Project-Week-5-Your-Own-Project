@@ -1,5 +1,5 @@
-,country,power_distance,individualism,numeric
-0,Arabic countries,80.0,38.0,False
-15,East Africa,64.0,27.0,False
-67,West Africa,77.0,2.0,False
-68,Yugoslavia,76.0,27.0,False
+,country,power_distance,individualism,country_id,numeric
+0,Arabic countries,80.0,38.0,Arabic countries,False
+15,East Africa,64.0,27.0,East Africa,False
+67,West Africa,77.0,2.0,West Africa,False
+68,Yugoslavia,76.0,27.0,Yugoslavia,False
