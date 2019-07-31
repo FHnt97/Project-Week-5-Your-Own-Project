@@ -28,14 +28,14 @@ This project will analyse relationships between the collective self-esteem of a 
 What are the questions you would like to answer with your project? Write your hypotheses here.
 
 The hypothesis the project will revolve around how the collective perception of self-esteem in a country differs depending on different dimensions of national culture.
+The culutral factors reasearched were Power distance and individualistic vs. collectivist societies. 
 
-As an added bonus, and for the sake of entertainment, a comparison of the results will also be made with the results of a similar query on narcissism. 
+As an added bonus, the dristributions of results by gender were compared to see if it was worth expanding. Equally, the sample mean grouped by age was plotted to analyse any trends between age and self-esteem.
 
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
 
 The main hypothesis created bases on the data retrieved from a questionnaire for the self-evaluation of an individual’s self-esteem, developed by Rosenberg in the 60s. The dataset used collected 47,974 answers in total and includes not only the overall score for each participant, but the age and nationality of each. 
 
